@@ -1,0 +1,15 @@
+{
+  "name": "fundamentos",
+  "version": "1.0.1",
+  "description": "fundamentos de node",
+  "main": "archivo.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan David jdcadavidq@unal.edu.co",
+  "license": "ISC"
+}
